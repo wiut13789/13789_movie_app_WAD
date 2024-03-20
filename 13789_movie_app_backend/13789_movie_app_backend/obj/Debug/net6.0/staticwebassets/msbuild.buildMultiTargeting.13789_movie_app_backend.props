@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\13789_movie_app_backend.props" />
+</Project>
