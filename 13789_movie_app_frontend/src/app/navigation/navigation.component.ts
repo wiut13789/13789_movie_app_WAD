@@ -14,7 +14,7 @@ import { Router } from '@angular/router';
 export class NavigationComponent {
   router = inject(Router);
   onHomeIconClicked() {
-    this.router.navigateByUrl('movies');
+    this.router.navigateByUrl('');
   }
   openGenres() {
     this.router.navigateByUrl('genres');
@@ -23,9 +23,9 @@ export class NavigationComponent {
     this.router.navigateByUrl('movies');
   }
   CreateGenre() {
-    this.router.navigateByUrl('create/genre');
+    this.router.navigateByUrl('genre/create');
   }
   CreateMovie() {
-    this.router.navigateByUrl('create/movie');
+    this.router.navigateByUrl('movie/create');
   }
 }
