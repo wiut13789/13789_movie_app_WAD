@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\dal\\data\\migrations\\20240320130949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\dal\\data\\migrations\\20240320130949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\dal\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\dal\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\dal\\data\\migrations\\20240320130949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\dal\\data\\migrations\\20240320130949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\dal\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|solutionrelative:13789_movie_app_backend\\dal\\data\\generaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BDA254D-255D-4F83-B15B-2617C9B4786F}|13789_movie_app_backend\\13789_movie_app_backend.csproj|c:\\users\\akbar\\onedrive\\documents\\maryam_wad\\cw\\13789_movie_app_wad\\13789_movie_app_backend\\13789_movie_app_backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20240320130949_Initial.cs",
               "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\DAL\\Data\\Migrations\\20240320130949_Initial.cs",
               "RelativeDocumentMoniker": "13789_movie_app_backend\\DAL\\Data\\Migrations\\20240320130949_Initial.cs",
@@ -79,7 +79,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "13789_movie_app_backend\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "13789_movie_app_backend\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:49:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "13789_movie_app_backend\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "13789_movie_app_backend\\Repositories\\GenreRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:49:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
+              "RelativeDocumentMoniker": "13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
+              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
+              "RelativeToolTip": "13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:49:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "13789_movie_app_backend\\Controllers\\MoviesController.cs",
@@ -87,38 +126,11 @@
               "RelativeToolTip": "13789_movie_app_backend\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:49:35.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "13789_movie_app_backend\\Controllers\\GenresController.cs",
-              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Controllers\\GenresController.cs",
-              "RelativeToolTip": "13789_movie_app_backend\\Controllers\\GenresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\GenreRepository.cs",
-              "RelativeDocumentMoniker": "13789_movie_app_backend\\Repositories\\GenreRepository.cs",
-              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\GenreRepository.cs",
-              "RelativeToolTip": "13789_movie_app_backend\\Repositories\\GenreRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\MovieRepository.cs",
               "RelativeDocumentMoniker": "13789_movie_app_backend\\Repositories\\MovieRepository.cs",
@@ -126,33 +138,19 @@
               "RelativeToolTip": "13789_movie_app_backend\\Repositories\\MovieRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:49:35.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "13789_movie_app_backend\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Repositories\\IRepository.cs",
               "RelativeToolTip": "13789_movie_app_backend\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:49:35.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GeneralDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
-              "RelativeDocumentMoniker": "13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
-              "ToolTip": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
-              "RelativeToolTip": "13789_movie_app_backend\\DAL\\Data\\GeneralDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.431Z",
               "EditorCaption": ""
             },
             {
@@ -165,8 +163,7 @@
               "RelativeToolTip": "13789_movie_app_backend\\Models\\Genre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:49:35.434Z"
             },
             {
               "$type": "Document",
@@ -178,12 +175,11 @@
               "RelativeToolTip": "13789_movie_app_backend\\Models\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:49:35.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AKBAR\\OneDrive\\Documents\\MARYAM_WAD\\CW\\13789_movie_app_WAD\\13789_movie_app_backend\\13789_movie_app_backend\\Program.cs",
               "RelativeDocumentMoniker": "13789_movie_app_backend\\Program.cs",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "13789_movie_app_backend\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:49:35.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T15:49:35.441Z"
             }
           ]
         }
