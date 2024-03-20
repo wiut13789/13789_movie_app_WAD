@@ -1,8 +1,8 @@
 ﻿using _13789_movie_app_backend.DAL.Data;
-using _13789_movie_app_backend.DAL.Models;
+using _13789_movie_app_backend.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace _13789_movie_app_backend.DAL.Repositories
+namespace _13789_movie_app_backend.Repositories
 {
     public class GenreRepository : IRepository<Genre>
     {

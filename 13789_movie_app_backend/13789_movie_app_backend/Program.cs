@@ -1,6 +1,6 @@
 using _13789_movie_app_backend.DAL.Data;
-using _13789_movie_app_backend.DAL.Models;
-using _13789_movie_app_backend.DAL.Repositories;
+using _13789_movie_app_backend.Models;
+using _13789_movie_app_backend.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";

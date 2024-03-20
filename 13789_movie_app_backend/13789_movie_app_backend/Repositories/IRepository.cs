@@ -1,4 +1,4 @@
-﻿namespace _13789_movie_app_backend.DAL.Repositories
+﻿namespace _13789_movie_app_backend.Repositories
 {
     public interface IRepository<T>
     {

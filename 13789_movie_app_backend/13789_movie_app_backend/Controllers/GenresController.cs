@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using _13789_movie_app_backend.DAL.Data;
-using _13789_movie_app_backend.DAL.Models;
-using _13789_movie_app_backend.DAL.Repositories;
+using _13789_movie_app_backend.Repositories;
+using _13789_movie_app_backend.Models;
 
 namespace _13789_movie_app_backend.Controllers
 {

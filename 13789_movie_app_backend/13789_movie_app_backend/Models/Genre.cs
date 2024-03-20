@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace _13789_movie_app_backend.DAL.Models
+namespace _13789_movie_app_backend.Models
 {
     public class Genre
     {
