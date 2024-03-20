@@ -1,4 +1,6 @@
 using _13789_movie_app_backend.DAL.Data;
+using _13789_movie_app_backend.DAL.Models;
+using _13789_movie_app_backend.DAL.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
@@ -26,7 +28,8 @@ builder.Services.AddDbContext<GeneralDBContext>(
     o => o.UseSqlServer(
         builder.Configuration.GetConnectionString("SqlServerConnection")));
 
-
+builder.Services.AddScoped<IRepository<Movie>, MovieRepository>();
+builder.Services.AddScoped<IRepository<Genre>, GenreRepository>();
 
 
 var app = builder.Build();
